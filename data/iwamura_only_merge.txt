@@ -1,0 +1,8 @@
+K/_alice/0 -> a
+R/_alice/0 -> a
+R/_carol/0 -> c
+R/_david/0 -> d
+U/_carol/0 -> b
+U/_david/0 -> c
+K/_bob/0 -> b
+R/_bob/0 -> b

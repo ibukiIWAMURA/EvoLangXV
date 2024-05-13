@@ -1,0 +1,13 @@
+S/_admire(_alice,_carol)/0 -> eja
+S/_admire(_alice,_carol)/0 -> ej
+S/_kick(y,x)/0 -> KfR	(x:2, y:0)
+S/_admire(_alice,_bob)/0 -> cge
+S/_like(_eve,x)/0 -> diU	(x:2)
+K/_alice -> a
+R/_alice -> a
+R/_carol -> c
+R/_david -> d
+U/_carol -> b
+U/_david -> c
+K/_bob -> b
+R/_bob -> b

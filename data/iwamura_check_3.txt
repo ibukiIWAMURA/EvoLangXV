@@ -1,0 +1,7 @@
+S/_kick(_alice,_bob)/0 -> afb
+S/_kick(_alice,_carol)/0 -> afc
+S/_kick(_alice,_david)/0 -> afd
+S/_kick(_bob,_alice)/0 -> bfa
+S/_kick(_bob,_carol)/0 -> bfc
+S/_like(_eve,_carol)/0 -> dib
+S/_like(_eve,_david)/0 -> dic

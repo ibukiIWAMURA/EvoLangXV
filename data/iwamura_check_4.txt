@@ -1,0 +1,3 @@
+S/_kick(_alice,_bob)/0 -> afb
+S/_kick(_alice,_carol)/0 -> afc
+S/_kick(_bob,_alice)/0 -> dfc
